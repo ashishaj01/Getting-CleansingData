@@ -25,3 +25,4 @@ Step5. Use data <- read.table("cleanData.txt") to read the latter. There are 30 
 datawithaverages.txt and extractedDataWithAverages.txt  "for each activity and each subject".
 
 Note that the provided R script has no assumptions on numbers of records, only on locations of files.
+ while calculating average using ddply(), the variables are not renamed.
